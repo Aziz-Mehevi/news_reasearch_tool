@@ -16,9 +16,9 @@ This news research tool is designed for effortless information retrieval. Users 
 1. Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/Aziz-Mehevi/news_reasearch_tool.git
 ```
-2. Navigate to the repository:
+2. Navigate the repository:
 
 ```bash
   news_reasearch_tool
