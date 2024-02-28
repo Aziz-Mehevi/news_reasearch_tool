@@ -3,8 +3,6 @@
 
 This news research tool is designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-![](rockybot.jpg)
-
 ## Features
 
 - Load URLs or upload text files containing URLs to fetch article content.
@@ -15,25 +13,25 @@ This news research tool is designed for effortless information retrieval. Users 
 
 ## Installation
 
-1.Clone this repository to your local machine using:
+1. Clone this repository to your local machine using:
 
 ```bash
   git clone https://github.com/codebasics/langchain.git
 ```
-2.Navigate to the project directory:
+2. Navigate to the repository:
 
 ```bash
-  cd 2_news_research_tool_project
+  news_reasearch_tool
 ```
 3. Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
 ```
-4.Set up your OpenAI API key by creating a .env file in the project root and adding your API
+4. Set up your OpenAI API key by creating a .env file in the project root and adding your API
 
 ```bash
-  OPENAI_API_KEY=your_api_key_here
+  OPENAI_API_KEY = your_api_key_here
 ```
 ## Usage/Examples
 
